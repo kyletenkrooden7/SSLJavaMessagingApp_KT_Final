@@ -1,0 +1,14 @@
+//Upon submission, the full code is working with SSL enabled as shown in the screenshot. If you have any difficulties, please email kyle.tenkrooden@students.ittralee.ie
+
+- Download Visual Studio Code IDE
+- Open the project within this IDE : NEW --> Open Folder --> SSLJavaMessagingApp_KT_Final
+- Start the Server/SslConcurrentServer.java by pressing on the play button. The compilation process is done automatically
+- SSL dump will display, and a confirmation message will be displayed
+- Start the Client/SslClientGUI.java file
+- A login screen will be shown
+- For the username enter: admin
+- For the password enter: admin
+- GUI will display, Interact by entering messages and clicking send/download
+- Start another SslClientGUI process by clicking the play button on the file again
+- Concurrent, secure access to the server has been established
+- ENJOY!
